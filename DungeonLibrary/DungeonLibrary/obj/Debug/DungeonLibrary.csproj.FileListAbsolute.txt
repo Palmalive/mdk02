@@ -1,0 +1,6 @@
+C:\Users\ЬШ\source\repos\DungeonLibrary\DungeonLibrary\bin\Debug\DungeonLibrary.dll
+C:\Users\ЬШ\source\repos\DungeonLibrary\DungeonLibrary\bin\Debug\DungeonLibrary.pdb
+C:\Users\ЬШ\source\repos\DungeonLibrary\DungeonLibrary\obj\Debug\DungeonLibrary.csproj.AssemblyReference.cache
+C:\Users\ЬШ\source\repos\DungeonLibrary\DungeonLibrary\obj\Debug\DungeonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ЬШ\source\repos\DungeonLibrary\DungeonLibrary\obj\Debug\DungeonLibrary.dll
+C:\Users\ЬШ\source\repos\DungeonLibrary\DungeonLibrary\obj\Debug\DungeonLibrary.pdb
